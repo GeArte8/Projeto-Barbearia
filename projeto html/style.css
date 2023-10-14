@@ -1,0 +1,56 @@
+body {
+    background: #2F4F4F;
+}
+
+#barbearia {
+    width: 100%;
+    height: 200px;
+}
+
+.principal {
+    background: #BDB76B;
+    padding: 30px
+}
+
+h1 {
+    color: black;
+    font-size: 80px; text-align: center;
+    height: 150px;
+    border: 10px solid #FFDAB9
+}
+
+p { 
+    font-size: 20px; text-align: center;
+}
+
+#missao {
+    font-size: 26px;
+}
+
+em strong {
+    color: blue
+}
+
+.itens {
+    font-style: italic;
+}
+
+.benefícios {
+    background: #00CED1;
+    padding: 20px;
+}
+
+h2 { 
+    text-align: center; font-size: 30px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
